@@ -19,6 +19,7 @@
 
 ## 📁 Структура проекта
 online-school-ab-test/
+
 ├── ab_test_analysis.ipynb # основной анализ в Jupyter Notebook
 
 ├── online_school_data/ # папка с данными
